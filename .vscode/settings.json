@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "C:\\Users\\duyix\\.virtualenvs\\scf_add-WadJ4fiP\\scripts\\python.exe",
+    "files.autoSave": "afterDelay",
+    "python.unitTest.pyTestArgs": [
+        "test"
+    ],
+    "python.unitTest.pyTestEnabled": true,
+    "python.formatting.provider": "yapf",
+
+}
